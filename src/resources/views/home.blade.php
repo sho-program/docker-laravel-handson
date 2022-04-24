@@ -5,6 +5,6 @@
         <title>トップ画面</title>
     </head>
     <body>
-        <p>こんにちは さようなら</p>
+        <p>こんにちは</p>
     </body>
 </html>
